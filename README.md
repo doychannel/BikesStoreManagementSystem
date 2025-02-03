@@ -1,5 +1,6 @@
 **Title**
 Bike Stores Management System – Read and Write File.
+![CodeOfTheProject](https://github.com/user-attachments/assets/6c4e5445-10ac-4120-8daa-2448373970c4)
 
 _**Background**_
 
